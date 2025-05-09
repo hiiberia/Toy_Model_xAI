@@ -4,6 +4,7 @@
 </div>
 
 
+/
 This project presents a toy example of an explainable AI (xAI) model for wildfire prediction based on satellite imagery. The goal is to showcase how post-hoc interpretability methods can be used to enhance trust and understanding in computer vision models.
 
 ## Dataset
