@@ -1,6 +1,6 @@
 <div align="center">
 <h1> xAI for Wildfire Prediction with Satellite Imagery </h1>
-<img src="https://github.com/user-attachments/assets/fff73623-d756-438d-97b5-449370a82e21" alt="image" width="200"/>
+<img src="https://github.com/user-attachments/assets/6c4c2129-7667-4b40-b3b4-ebdbd58b292d" alt="image" width="200"/>
 </div>
 
 
