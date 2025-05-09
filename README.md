@@ -1,8 +1,7 @@
-# Explainable Wildfire Prediction with Satellite Imagery 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/02d4eefe-fd84-42af-ad22-fa67a18fd7e8" alt="image" width="200"/>
-</p>
+<div align="center">
+<h1> xAI for Wildfire Prediction with Satellite Imagery </h1>
+<img src="https://github.com/user-attachments/assets/02d4eefe-fd84-42af-ad22-fa67a18fd7e8" alt="image" width="200"/>
+</div>
 
 
 This project presents a toy example of an explainable AI (xAI) model for wildfire prediction based on satellite imagery. The goal is to showcase how post-hoc interpretability methods can be used to enhance trust and understanding in computer vision models.
